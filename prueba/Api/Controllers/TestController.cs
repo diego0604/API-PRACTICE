@@ -1,5 +1,5 @@
 ﻿using GenericApplication.Interface.Services;
-using GenericApplication.Request;
+using GenericApplication.Models.Request;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Cryptography.X509Certificates;

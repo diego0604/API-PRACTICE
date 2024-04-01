@@ -1,4 +1,16 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿function iniciar() {
 
-// Write your JavaScript code.
+
+    // Realizar la solicitud Ajax para cargar el Partial View
+    $.ajax({
+        url: '/Home/Iniciar', // Reemplaza "ActionName" y "ControllerName" por el nombre de la acción y controlador que devuelve el Partial View
+        type: 'GET',
+        success: function (result) {
+            $("#partialViewContainer").html(result);
+        },
+        error: function (xhr, status, error) {
+            // Manejar errores si la solicitud falla
+            console.error("Error al cargar Partial View:", error);
+        }
+    });
+}

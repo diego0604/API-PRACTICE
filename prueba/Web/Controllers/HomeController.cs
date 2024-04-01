@@ -24,6 +24,11 @@ namespace Web.Controllers
         }
 
 
+        public PartialViewResult Register() {
+
+            return PartialView();
+        }
+
       
     }
 }

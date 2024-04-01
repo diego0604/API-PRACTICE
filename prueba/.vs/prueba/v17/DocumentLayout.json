@@ -1,145 +1,172 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\",
+  "WorkspaceRootPath": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\entityinfraestructure\\configuration\\pruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|solutionrelative:entityinfraestructure\\configuration\\pruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\models\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\models\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\models\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\models\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\interface\\services\\ipruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\ipruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\entityinfraestructure\\servics\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|solutionrelative:entityinfraestructure\\servics\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\adoinfraestructure\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\utilities\\genericresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\genericresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\services\\servicecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\services\\servicecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\middleware\\xapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\middleware\\xapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\adoinfraestructure\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\adoinfraestructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\interface\\services\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\interface\\services\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\utilities\\genericresponse\\genericsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\genericresponse\\genericsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\adoinfraestructure\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\genericapplication\\genericapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\genericapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\services\\servicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\services\\servicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\interface\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\interface\\isettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\home\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\services\\servicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\services\\servicescollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\entityinfraestructure\\configuration\\pruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|solutionrelative:entityinfraestructure\\configuration\\pruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\interface\\services\\ipruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\ipruebasmcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\entityinfraestructure\\servics\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FAAE519-58F4-4140-B2C5-7C016C46F212}|EntityInfraestructure\\EntityInfraestructure.csproj|solutionrelative:entityinfraestructure\\servics\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\adoinfraestructure\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\services\\productsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\utilities\\genericresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\genericresponse\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\services\\servicecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\services\\servicecollections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\models\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\models\\request\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\models\\request\\customerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\middleware\\xapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\middleware\\xapikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\adoinfraestructure\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\adoinfraestructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\interface\\services\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\iproductsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\interface\\services\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\interface\\services\\iusersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\models\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\models\\request\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\utilities\\genericresponse\\genericsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\genericresponse\\genericsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\adoinfraestructure\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0254D0F4-CF5A-45D4-B088-EA1DB198DE0A}|ADOInfraestructure\\ADOInfraestructure.csproj|solutionrelative:adoinfraestructure\\interfaces\\idata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\genericapplication\\genericapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7B2FBE8B-03B6-4F2B-BF79-BF4123229535}|GenericApplication\\GenericApplication.csproj|solutionrelative:genericapplication\\genericapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{060305BF-84F3-42C9-9A45-352C969D2BDC}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4ACF8EAF-75A9-4064-A0C0-474C6430FEED}|Utilities\\Utilities.csproj|solutionrelative:utilities\\utilities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56AAAA8B-6AC7-4A5F-8C25-A9A5A55045F3}|Web\\Web.csproj|solutionrelative:web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\source\\repos\\prueba\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|c:\\users\\diego.salazar\\downloads\\nueva\\test\\prueba\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{72D9C01B-247E-4F02-B2F4-552A2802C5DA}|Api\\Api.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -150,7 +177,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 71,
-          "SelectedChildIndex": 49,
+          "SelectedChildIndex": 48,
           "Children": [
             {
               "$type": "Bookmark",
@@ -334,76 +361,228 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersService.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\EntityInfraestructure\\Servics\\UsersService.cs",
-              "RelativeDocumentMoniker": "EntityInfraestructure\\Servics\\UsersService.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\EntityInfraestructure\\Servics\\UsersService.cs",
-              "RelativeToolTip": "EntityInfraestructure\\Servics\\UsersService.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAmAAAA",
+              "DocumentIndex": 2,
+              "Title": "CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "Web\\Models\\Request\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "Web\\Models\\Request\\CustomerRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:59:10.018Z",
+              "WhenOpened": "2024-04-01T23:31:41.234Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\Product.cs",
+              "RelativeDocumentMoniker": "Web\\Models\\Request\\Product.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\Product.cs",
+              "RelativeToolTip": "Web\\Models\\Request\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T23:31:39.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\Users.cs",
-              "RelativeDocumentMoniker": "GenericApplication\\Request\\Users.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\Users.cs",
-              "RelativeToolTip": "GenericApplication\\Request\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\Users.cs",
+              "RelativeDocumentMoniker": "Web\\Models\\Request\\Users.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Models\\Request\\Users.cs",
+              "RelativeToolTip": "Web\\Models\\Request\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T17:42:21.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ServiceCollections.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Services\\ServiceCollections.cs",
-              "RelativeDocumentMoniker": "Api\\Services\\ServiceCollections.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Services\\ServiceCollections.cs",
-              "RelativeToolTip": "Api\\Services\\ServiceCollections.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAIAwwEgAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:40:49.66Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductsServices.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Services\\ProductsServices.cs",
-              "RelativeDocumentMoniker": "ADOInfraestructure\\Services\\ProductsServices.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Services\\ProductsServices.cs",
-              "RelativeToolTip": "ADOInfraestructure\\Services\\ProductsServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T20:59:30.626Z",
+              "WhenOpened": "2024-04-01T23:31:34.08Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "pruebaSmContext.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
-              "RelativeDocumentMoniker": "EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
-              "RelativeToolTip": "EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
-              "ViewState": "AQIAAGIAAAAAAAAAAAAYwGcAAAAlAAAA",
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "Web\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:48:41.302Z",
+              "WhenOpened": "2024-04-01T23:30:49.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Home\\Register.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Register.cshtml",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Home\\Register.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T23:25:10.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\GenericResponse\\Response.cs",
+              "RelativeDocumentMoniker": "Utilities\\GenericResponse\\Response.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\GenericResponse\\Response.cs",
+              "RelativeToolTip": "Utilities\\GenericResponse\\Response.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:53:53.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPruebaSmContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
+              "RelativeDocumentMoniker": "GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
+              "RelativeToolTip": "GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAApwA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:10:18.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:03:24.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAApwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T22:03:28.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ServicesCollection.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Services\\ServicesCollection.cs",
+              "RelativeDocumentMoniker": "Web\\Services\\ServicesCollection.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Services\\ServicesCollection.cs",
+              "RelativeToolTip": "Web\\Services\\ServicesCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:50:46.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-01T15:37:14.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:53:28.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T15:38:04.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T15:38:08.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwBQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T15:37:50.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Web\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Web\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAcwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-01T23:28:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-01T23:14:57.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Controllers\\TestController.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Controllers\\TestController.cs",
               "RelativeDocumentMoniker": "Api\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Controllers\\TestController.cs",
               "RelativeToolTip": "Api\\Controllers\\TestController.cs",
               "ViewState": "AQIAACoAAAAAAAAAAAAAwCwAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,90 +591,112 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\GenericResponse\\Response.cs",
-              "RelativeDocumentMoniker": "Utilities\\GenericResponse\\Response.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\GenericResponse\\Response.cs",
-              "RelativeToolTip": "Utilities\\GenericResponse\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "DocumentIndex": 14,
+              "Title": "pruebaSmContext.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
+              "RelativeDocumentMoniker": "EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
+              "RelativeToolTip": "EntityInfraestructure\\Configuration\\pruebaSmContext.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAYwHEAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:53:53.093Z",
+              "WhenOpened": "2024-04-01T16:48:41.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductsServices.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Services\\ProductsServices.cs",
+              "RelativeDocumentMoniker": "ADOInfraestructure\\Services\\ProductsServices.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Services\\ProductsServices.cs",
+              "RelativeToolTip": "ADOInfraestructure\\Services\\ProductsServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T20:59:30.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IPruebaSmContext.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
-              "RelativeDocumentMoniker": "GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
-              "RelativeToolTip": "GenericApplication\\Interface\\Services\\IPruebaSmContext.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAApwA0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T19:10:18.885Z",
+              "DocumentIndex": 13,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwEUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-01T22:50:54.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAhwA4AAAAfAAAA",
+              "DocumentIndex": 23,
+              "Title": "ServiceCollections.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Services\\ServiceCollections.cs",
+              "RelativeDocumentMoniker": "Api\\Services\\ServiceCollections.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Services\\ServiceCollections.cs",
+              "RelativeToolTip": "Api\\Services\\ServiceCollections.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAIAwwEgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T22:03:24.125Z",
+              "WhenOpened": "2024-04-01T15:40:49.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\Users.cs",
+              "RelativeDocumentMoniker": "GenericApplication\\Models\\Request\\Users.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\Users.cs",
+              "RelativeToolTip": "GenericApplication\\Models\\Request\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T17:42:21.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Entities\\Customer.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Entities\\Customer.cs",
-              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAApwBEAAAAIAAAA",
+              "DocumentIndex": 19,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\EntityInfraestructure\\Servics\\UsersService.cs",
+              "RelativeDocumentMoniker": "EntityInfraestructure\\Servics\\UsersService.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\EntityInfraestructure\\Servics\\UsersService.cs",
+              "RelativeToolTip": "EntityInfraestructure\\Servics\\UsersService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwCgAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T22:03:28.818Z",
+              "WhenOpened": "2024-04-01T20:59:10.018Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\appsettings.json",
               "RelativeDocumentMoniker": "Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\appsettings.json",
               "RelativeToolTip": "Api\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T19:39:27.156Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T19:39:27.156Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "xApiKey.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Middleware\\xApiKey.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Middleware\\xApiKey.cs",
               "RelativeDocumentMoniker": "Api\\Middleware\\xApiKey.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Middleware\\xApiKey.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Middleware\\xApiKey.cs",
               "RelativeToolTip": "Api\\Middleware\\xApiKey.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAA1wAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T21:35:42.811Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T21:35:42.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 25,
               "Title": "CustomerRequest.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\CustomerRequest.cs",
-              "RelativeDocumentMoniker": "GenericApplication\\Request\\CustomerRequest.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\CustomerRequest.cs",
-              "RelativeToolTip": "GenericApplication\\Request\\CustomerRequest.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\CustomerRequest.cs",
+              "RelativeDocumentMoniker": "GenericApplication\\Models\\Request\\CustomerRequest.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\CustomerRequest.cs",
+              "RelativeToolTip": "GenericApplication\\Models\\Request\\CustomerRequest.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T21:20:26.271Z",
@@ -503,50 +704,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Program.cs",
               "RelativeDocumentMoniker": "Api\\Program.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Program.cs",
               "RelativeToolTip": "Api\\Program.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAnwCoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:41:38.525Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T15:41:38.525Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "Connection.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Connection.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Connection.cs",
               "RelativeDocumentMoniker": "ADOInfraestructure\\Connection.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Connection.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Connection.cs",
               "RelativeToolTip": "ADOInfraestructure\\Connection.cs",
               "ViewState": "AQIAADsAAAAAAAAAAAAIwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T21:33:49.659Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T21:33:49.659Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 28,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Data.cs",
               "RelativeDocumentMoniker": "ADOInfraestructure\\Data.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Data.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Data.cs",
               "RelativeToolTip": "ADOInfraestructure\\Data.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T19:16:42.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T19:16:42.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 31,
               "Title": "IUsersServices.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IUsersServices.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IUsersServices.cs",
               "RelativeDocumentMoniker": "GenericApplication\\Interface\\Services\\IUsersServices.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IUsersServices.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IUsersServices.cs",
               "RelativeToolTip": "GenericApplication\\Interface\\Services\\IUsersServices.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAASwA0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -555,11 +753,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 30,
               "Title": "IProductsService.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IProductsService.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IProductsService.cs",
               "RelativeDocumentMoniker": "GenericApplication\\Interface\\Services\\IProductsService.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Interface\\Services\\IProductsService.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Interface\\Services\\IProductsService.cs",
               "RelativeToolTip": "GenericApplication\\Interface\\Services\\IProductsService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -568,12 +766,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 32,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\Product.cs",
-              "RelativeDocumentMoniker": "GenericApplication\\Request\\Product.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\Request\\Product.cs",
-              "RelativeToolTip": "GenericApplication\\Request\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\Product.cs",
+              "RelativeDocumentMoniker": "GenericApplication\\Models\\Request\\Product.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\Models\\Request\\Product.cs",
+              "RelativeToolTip": "GenericApplication\\Models\\Request\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T17:34:53.987Z",
@@ -581,211 +779,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "IData.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Interfaces\\IData.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Interfaces\\IData.cs",
               "RelativeDocumentMoniker": "ADOInfraestructure\\Interfaces\\IData.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\ADOInfraestructure\\Interfaces\\IData.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\ADOInfraestructure\\Interfaces\\IData.cs",
               "RelativeToolTip": "ADOInfraestructure\\Interfaces\\IData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T19:38:47.165Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GenericsResponse.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\GenericResponse\\GenericsResponse.cs",
-              "RelativeDocumentMoniker": "Utilities\\GenericResponse\\GenericsResponse.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\GenericResponse\\GenericsResponse.cs",
-              "RelativeToolTip": "Utilities\\GenericResponse\\GenericsResponse.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAkwCUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T16:56:59.373Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GenericApplication",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\GenericApplication.csproj",
-              "RelativeDocumentMoniker": "GenericApplication\\GenericApplication.csproj",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\GenericApplication\\GenericApplication.csproj",
-              "RelativeToolTip": "GenericApplication\\GenericApplication.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:31.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Domain",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Domain\\Domain.csproj",
-              "RelativeToolTip": "Domain\\Domain.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:31.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Utilities",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\Utilities.csproj",
-              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Utilities\\Utilities.csproj",
-              "RelativeToolTip": "Utilities\\Utilities.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:31.8Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Api",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Api.csproj",
-              "RelativeDocumentMoniker": "Api\\Api.csproj",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Api.csproj",
-              "RelativeToolTip": "Api\\Api.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:31.741Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Web",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Web.csproj",
-              "RelativeDocumentMoniker": "Web\\Web.csproj",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Web.csproj",
-              "RelativeToolTip": "Web\\Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-01T16:53:30.767Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Program.cs",
-              "RelativeDocumentMoniker": "Web\\Program.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Program.cs",
-              "RelativeToolTip": "Web\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:53:28.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ServicesCollection.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Services\\ServicesCollection.cs",
-              "RelativeDocumentMoniker": "Web\\Services\\ServicesCollection.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Services\\ServicesCollection.cs",
-              "RelativeToolTip": "Web\\Services\\ServicesCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:50:46.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ISettings.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Interface\\ISettings.cs",
-              "RelativeDocumentMoniker": "Web\\Interface\\ISettings.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Interface\\ISettings.cs",
-              "RelativeToolTip": "Web\\Interface\\ISettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:39:10.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAIBJwBAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T15:38:08.861Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T15:38:04.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T19:38:47.165Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
+              "Title": "GenericsResponse.cs",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\GenericResponse\\GenericsResponse.cs",
+              "RelativeDocumentMoniker": "Utilities\\GenericResponse\\GenericsResponse.cs",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\GenericResponse\\GenericsResponse.cs",
+              "RelativeToolTip": "Utilities\\GenericResponse\\GenericsResponse.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:56:59.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GenericApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\GenericApplication.csproj",
+              "RelativeDocumentMoniker": "GenericApplication\\GenericApplication.csproj",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\GenericApplication\\GenericApplication.csproj",
+              "RelativeToolTip": "GenericApplication\\GenericApplication.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T16:53:31.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T16:53:31.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Utilities.csproj",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\Utilities.csproj",
+              "RelativeDocumentMoniker": "Utilities\\Utilities.csproj",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Utilities\\Utilities.csproj",
+              "RelativeToolTip": "Utilities\\Utilities.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T16:53:31.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Api.csproj",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Api.csproj",
+              "RelativeDocumentMoniker": "Api\\Api.csproj",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Api.csproj",
+              "RelativeToolTip": "Api\\Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T16:53:31.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Web.csproj",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Web.csproj",
+              "RelativeDocumentMoniker": "Web\\Web.csproj",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Web.csproj",
+              "RelativeToolTip": "Web\\Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T16:53:30.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Web\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Web\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-01T15:38:02.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T15:38:02.462Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T15:37:50.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Web\\appsettings.json",
-              "RelativeToolTip": "Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T15:37:14.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 41,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\diego.salazar\\source\\repos\\prueba\\Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\diego.salazar\\Downloads\\nUEVA\\test\\prueba\\Api\\Properties\\launchSettings.json",
               "RelativeToolTip": "Api\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-01T15:35:50.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-01T15:35:50.339Z"
             }
           ]
         },

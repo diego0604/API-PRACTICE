@@ -1,6 +1,6 @@
 ﻿using DBTest.InvoiceManagerDB;
 using GenericApplication.Interface.Services;
-using GenericApplication.Request;
+using GenericApplication.Models.Request;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;

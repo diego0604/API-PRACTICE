@@ -1,7 +1,7 @@
 ﻿using AutoMapper.Configuration;
 using DataAccess;
 using GenericApplication.Interface.Services;
-using GenericApplication.Request;
+using GenericApplication.Models.Request;
 using Microsoft.Extensions.Configuration;
 using System.Security.Cryptography.X509Certificates;
 using Utilities.GenericResponse;

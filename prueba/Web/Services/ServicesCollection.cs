@@ -4,7 +4,6 @@
     {
         internal static IServiceCollection AddManagers(this IServiceCollection services, IConfiguration config)
         {
-
             services.AddHttpClient("hostAPI", client =>
             {
                 client.BaseAddress = new Uri(config["settings:urlBaseAPI"]);

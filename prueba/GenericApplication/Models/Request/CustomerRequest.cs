@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GenericApplication.Request
+namespace GenericApplication.Models.Request
 {
     public class CustomerRequest
     {
         public string document { get; set; }
         public string pwd { get; set; }
-        public string cName { get; set; }   
+        public string cName { get; set; }
     }
 }

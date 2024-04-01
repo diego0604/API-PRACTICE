@@ -1,4 +1,4 @@
-﻿using GenericApplication.Request;
+﻿using GenericApplication.Models.Request;
 using System;
 using System.Collections.Generic;
 using System.Linq;
