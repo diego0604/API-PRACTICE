@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Api.Controllers.TestController",
+    "Method": "AssignConsecutive",
+    "RelativePath": "api/Test/AssignConsecutive",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usersRequest",
+        "Type": "GenericApplication.Request.Users",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TestController",
+    "Method": "CreateCustomer",
+    "RelativePath": "api/Test/CreateCustomer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerRequest",
+        "Type": "GenericApplication.Request.CustomerRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TestController",
+    "Method": "CreateProduct",
+    "RelativePath": "api/Test/CreateProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productRequest",
+        "Type": "GenericApplication.Request.Product",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
